@@ -6,6 +6,9 @@ Diseño coche autónomo para la competición Future Engineers 2023
 Equipo: Correcaminos
 
 Integrantes:
-  -Jara Guillén Ivaldi
-  -Nacho Carreras Peréz
-  -Marc Blanco 
+
+-Jara Guillén Ivaldi
+
+-Nacho Carreras Peréz
+
+-Marc Blanco 
