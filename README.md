@@ -5,7 +5,7 @@ Este es el repositorio del equipo de Menorca que competirá el 16 y 17 de septie
   ### Electronics
   ### Structure
    
-    /Multimedia/Fotos/esqueletoV2.jpg
+    Multimedia/Fotos/esqueletoV2.jpg
  > link no funcional
    ### Motion
    
