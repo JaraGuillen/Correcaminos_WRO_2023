@@ -11,9 +11,8 @@ Integrantes:
 
 -Nacho Carreras Peréz
 
--Marc Blanco Llera 💀
-  ## Hardware
-      
+-Marc Blanco Llera 
+
   ### Electronics
   El sistema de traccion esta controlado por una placa esp32 (D1 R32) que asemeja un ArduinoUno.
   la fuente de energia son dos pilas de litio 18-650 en serie.
@@ -25,14 +24,7 @@ Integrantes:
    material porque es rigido y fácil de moldear.
    Las ruedas delanteras van sin traccion para dirigir el coche atraves de un sistema de giro controlado por un servo.
    Las ruedas traseras estan unidas por un eje largo y conectadas a un motor DC de 6V.
-   
-    Multimedia/Fotos/esqueletoV2.jpg
- > link no funcional
-   ### Motion
-   
-  
-  ## Software
 
-
-
-Para la competición local hicimos un cocche autonomo el cual tuvo 
+  ###Estrategía
+  El vehículo utiliza las paredes para guiarse y en cuanto detecta un giro establece la dirección del tablero.
+ 
