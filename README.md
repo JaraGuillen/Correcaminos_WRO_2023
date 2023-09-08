@@ -13,7 +13,7 @@ Para tener éxito en una competición de esta envergadura, se necesita un equipo
 
 ·Marc Blanco Llera
 
-https://raw.githubusercontent.com/JaraGuillen/Correcaminos_WRO_2023/master/Multimedia/Fotos/Imagen de WhatsApp 2023-09-02 a las 14.39.43.jpg
+https://raw.githubusercontent.com/JaraGuillen/Correcaminos_WRO_2023/master/Multimedia/Fotos/NachoJara.jpg
 
 ### Electrónica
 Uno de los aspectos cruciales de cualquier proyecto de robótica es la electrónica que impulsa al robot. En el caso del coche autónomo de "Correcaminos," el sistema electrónico es esencial para el control y la toma de decisiones. Aquí hay una descripción detallada de los componentes electrónicos clave:
