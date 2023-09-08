@@ -1,5 +1,5 @@
 #### Correcaminos_WRO_2023
-Este es el repositorio del equipo de Menorca que competirá los días 16 y 17 de septiembre de 2023 en la WRO (World Robot Olympiad) nacional de España, bajo el nombre de "Correcaminos." Este evento representa una emocionante oportunidad para poner a prueba nuestras habilidades y conocimientos en robótica y competir con otros equipos de todo el país. En este repositorio, se encuentra la documentación y la información relevante sobre el proyecto en el que han estado trabajando con entusiasmo y dedicación.
+Este es el repositorio del equipo de Menorca que competirá los días 16 y 17 de septiembre de 2023 en la WRO (World Robot Olympiad) nacional de España, bajo el nombre de "Correcaminos." Este evento representa una emocionante oportunidad para poner a prueba nuestras habilidades y conocimientos en robótica y competir con otros equipos proovenientes de todo el país. En este repositorio, se encuentra la documentación y la información relevante sobre el proyecto en el que han estado trabajando con entusiasmo y dedicación.
 
 ### Diseño de Coche Autónomo para la Competición Future Engineers 2023
 El corazón de este proyecto es el diseño de un coche autónomo que competirá en la categoría Future Engineers 2023. Este desafío implica la creación de un vehículo capaz de navegar de manera autónoma y tomar decisiones basadas en sensores. El equipo de "Correcaminos" ha estado trabajando arduamente para lograr este objetivo.
@@ -46,7 +46,7 @@ El sistema de giro controlado por el servo se utiliza para ajustar la dirección
 
 
 
-En resumen, hemos creado un emocionante proyecto de coche autónomo que competirá en la WRO nacional de España en 2023. Este proyecto combina habilidades en electrónica, programación, diseño mecánico y estrategia de navegación para lograr un robot capaz de moverse de manera autónoma y sortear obstáculos. Con su base de metacrilato, sus ruedas controladas por servo y su motor DC.
+
 
 ..................................................................English version:..................................................................
 
@@ -67,7 +67,8 @@ To succeed in a competition of this magnitude, a solid and committed team is req
 ·Marc Blanco Llera
 
 ### Electronics
-One of the crucial aspects of any robotics project is the electronics that drive the robot. In the case of the "Correcaminos" autonomous car, the electronic system is essential for control and decision-making. Here is a detailed description of the key electronic components:
+One of the crucial aspects of any robotics project is the electronics that drive the robot. In the case of the "Correcaminos" autonomous car, the electronic system is essential for control and decision-making. 
+Here is a detailed description of the key electronic components:
 
 Control System: The vehicle's control system uses an ESP32 board (D1 R32), which is similar to an Arduino Uno. This board provides the necessary processing power to make real-time decisions and control the speed and direction of the car.
 
@@ -95,7 +96,6 @@ The vehicle uses the walls of the environment to guide itself. When it approache
 
 The servo-controlled turning system is used to adjust the vehicle's direction when necessary. This allows the car to navigate the environment effectively and intelligently.
 
-In summary, we have created an exciting project of an autonomous car that will compete in the national WRO of Spain in 2023. This project combines skills in electronics, programming, mechanical design, and navigation strategy to achieve a robot capable of autonomous movement and obstacle avoidance. With its acrylic base, servo-controlled wheels, and 6V DC motor, the "Correcaminos" autonomous car is ready to take on the competition.
 
 
 
