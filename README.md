@@ -3,9 +3,11 @@ Este es el repositorio del equipo de Menorca que competirá el 16 y 17 de septie
   ## Hardware
       
   ### Electronics
+  ### Structure
+   The main structure consists of a methacrylate base cutted in a specific shape to satisfy the requirements that is to say  ... ./Multimedia/Fotos/esqueletoV2.jpg
+ > link no funcional
    ### Motion
-   ### Structure
- The main ./Multimedia/Fotos/esqueletoV2.jpg
+   
   
   ## Software
 ## Blank Space >por determinar
