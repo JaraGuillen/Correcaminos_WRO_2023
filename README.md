@@ -58,9 +58,12 @@ Team: Correcaminos
 
 To succeed in a competition of this magnitude, a solid and committed team is required. The "Correcaminos" team consists of three friends:
 
-Jara Guillén Ivaldi
-Nacho Carreras Peréz
-Marc Blanco Llera
+·Jara Guillén Ivaldi
+
+·Nacho Carreras Peréz
+
+·Marc Blanco Llera
+
 ### Electronics
 One of the crucial aspects of any robotics project is the electronics that drive the robot. In the case of the "Correcaminos" autonomous car, the electronic system is essential for control and decision-making. Here is a detailed description of the key electronic components:
 
