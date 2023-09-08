@@ -19,7 +19,7 @@ Integrantes:
 
 -Nacho Carreras Peréz
 
--Marc Blanco :sunglasses:
+-Marc Blanco Llera :sunglasses:
 
 
 Para la competición local hicimos un cocche autonomo el cual tuvo 
