@@ -4,6 +4,10 @@ Este es el repositorio del equipo de Menorca que competirá el 16 y 17 de septie
       
   ### Electronics
   El sistema de traccion esta controlado por una placa esp32 (D1 R32) que asemeja un ArduinoUno.
+  la fuente de energia son dos pilas de litio 18-650 en serie.
+  El motor esta controlado por un chip L298N.
+  El sistema de giro esta controlado por un servo 9g.
+  Para detectar las paredes usa 3 sensores ultrasonido localizados en la parte delantera; uno delante, el otro a la derecha y el ultimo en la izquierda.
   ### Structure
    La estructura principal consiste en una base de metacrilato cortada para satisfacer las especificaciones. Hemos optado por este material porque es rigido y fácil de moldear.
    Las ruedas delanteras van sin traccion para dirigir el coche atraves de un sistema de giro controlado por un servo.
