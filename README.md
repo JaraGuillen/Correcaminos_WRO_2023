@@ -3,7 +3,9 @@ Este es el repositorio del equipo de Menorca que competirá el 16 y 17 de septie
   ## Hardware
     ### Electronics
     ### Motion
+  
   ## Software
+##Blank Space <por determinar
 Diseño coche autónomo para la competición Future Engineers 2023
 
 Equipo: Correcaminos
