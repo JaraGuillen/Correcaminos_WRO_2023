@@ -4,6 +4,11 @@ Este es el repositorio del equipo de Menorca que competirá el 16 y 17 de septie
       
   ### Electronics
   ### Structure
+   La estructura principal consiste en una base de metacrilato cortada para satisfacer las especificaciones. Hemos optado por este material porque:
+   1.Es Rigido
+   1.
+   1.
+   1.
    
     Multimedia/Fotos/esqueletoV2.jpg
  > link no funcional
