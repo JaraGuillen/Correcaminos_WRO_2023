@@ -3,7 +3,7 @@ Este es el repositorio del equipo de Menorca que competirá los días 16 y 17 de
 
 ### Diseño de Coche Autónomo para la Competición Future Engineers 2023
 El corazón de este proyecto es el diseño de un coche autónomo que competirá en la categoría Future Engineers 2023. Este desafío implica la creación de un vehículo capaz de navegar de manera autónoma y tomar decisiones basadas en sensores. El equipo de "Correcaminos" ha estado trabajando arduamente para lograr este objetivo.
-https://raw.githubusercontent.com/JaraGuillen/Correcaminos_WRO_2023/master/Multimedia/Fotos/NachoJara.jpg
+
 Equipo: Correcaminos
 Para tener éxito en una competición de esta envergadura, se necesita un equipo sólido y comprometido. El equipo "Correcaminos" está formado por tres amigos:
 
@@ -14,7 +14,6 @@ Para tener éxito en una competición de esta envergadura, se necesita un equipo
 ·Marc Blanco Llera
 
 
-<span></span><span>Aquí la descripción de la imagen por si no carga</span><span></span><span></span><span>https://raw.githubusercontent.com/JaraGuillen/Correcaminos_WRO_2023/master/Multimedia/Fotos/NachoJara.jpg</span><span></span>
 
 ### Electrónica
 Uno de los aspectos cruciales de cualquier proyecto de robótica es la electrónica que impulsa al robot. En el caso del coche autónomo de "Correcaminos," el sistema electrónico es esencial para el control y la toma de decisiones. Aquí hay una descripción detallada de los componentes electrónicos clave:
