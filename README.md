@@ -1,16 +1,16 @@
 ### Correcaminos_WRO_2023
 Este es el repositorio del equipo de Menorca que competirá los días 16 y 17 de septiembre de 2023 en la WRO nacional de España.
 
-r
+
 Diseño de coche autónomo para la competición Future Engineers 2023.
 
 Equipo: Correcaminos
 
 Integrantes:
 
-Jara Guillén Ivaldi
-Nacho Carreras Peréz
-Marc Blanco Llera
+Jara Guillén Ivaldi,
+Nacho Carreras Peréz,
+Marc Blanco Llera.
 ### Electrónica
 El sistema de tracción está controlado por una placa ESP32 (D1 R32), que se asemeja a un Arduino Uno.
 La fuente de energía consta de dos baterías de litio 18650 conectadas en serie.
@@ -40,9 +40,9 @@ Team: Correcaminos
 
 Members:
 
-Jara Guillén Ivaldi
-Nacho Carreras Peréz
-Marc Blanco Llera
+Jara Guillén Ivaldi,
+Nacho Carreras Peréz,
+Marc Blanco Llera.
 ### Electronics
 The traction system is controlled by an ESP32 board (D1 R32), which resembles an Arduino Uno.
 The power source consists of two series-connected lithium 18650 batteries.
