@@ -35,6 +35,10 @@ void setup() {
   ledcAttachPin(enable1Pin, motorChannel);
  
   Serial.begin(115200);
+
+ digitalWrite(motor1Pin1, LOW);
+ digitalWrite(motor1Pin2, LOW); 
+  
 }
 
 
@@ -56,6 +60,7 @@ digitalWrite (servoPin,HIGH);
 delayMicroseconds(microseg);               
 digitalWrite (servoPin,LOW);
  
+ 
 
 }
 
@@ -66,29 +71,22 @@ digitalWrite (servoPin,LOW);
 
 
 void loop() {
-/* ledcWrite(motorChannel, dutyCycle);  
- analogWrite(motor1Pin1, 0);
- analogWrite(motor1Pin2, 255); 
+ ledcWrite(motorChannel, dutyCycle);  
+ digitalWrite(motor1Pin1, LOW);
+ digitalWrite(motor1Pin2, HIGH); 
 
-servoact(1000);
+servoact(40);
  delay(2000);
-servoact(2000);
+servoact(160);
   
- analogWrite(motor1Pin1, 0);
- analogWrite(motor1Pin2, 0); 
+ digitalWrite(motor1Pin1, LOW);
+ digitalWrite(motor1Pin2, LOW); 
 
  delay(1500);
-*/
-for(int i=40; i< 155; i++){
-  servoact(i);
-  delay(100);
-}
-for(int i=155; i> 40; i--){
-  servoact(i);
-  delay(100);
+
 }
  
-}
+
 
 
 
@@ -97,5 +95,5 @@ for(int i=155; i> 40; i--){
 
  void miTarea2 (void *pvParameters){
   for(;;){
- delay(1000);
+ delay(10000);
 }}
