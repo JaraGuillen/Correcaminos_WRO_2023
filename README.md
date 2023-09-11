@@ -1,7 +1,7 @@
-#### Correcaminos_WRO_2023
-Este es el repositorio del equipo de Menorca que competirá los días 16 y 17 de septiembre de 2023 en la WRO (World Robot Olympiad) nacional de España, bajo el nombre de "Correcaminos." Este evento representa una emocionante oportunidad para poner a prueba nuestras habilidades y conocimientos en robótica y competir con otros equipos proovenientes de todo el país. En este repositorio, se encuentra la documentación y la información relevante sobre el proyecto en el que han estado trabajando con entusiasmo y dedicación.
+# Correcaminos_WRO_2023
+Este es el repositorio del equipo de Menorca que competirá los días 16 y 17 de septiembre de 2023 en la WRO (World Robot Olympiad) nacional de España, bajo el nombre de "Correcaminos." Este evento representa una emocionante oportunidad para poner a prueba nuestras habilidades y conocimientos en robótica y competir con otros equipos proovenientes de todo el país. En este repositorio, se encuentra la documentación y la información relevante sobre el proyecto en el que hemos estado trabajando con entusiasmo y dedicación.
 
-### Diseño de Coche Autónomo para la Competición Future Engineers 2023
+## Diseño de Coche Autónomo
 El corazón de este proyecto es el diseño de un coche autónomo que competirá en la categoría Future Engineers 2023. Este desafío implica la creación de un vehículo capaz de navegar de manera autónoma y tomar decisiones basadas en sensores. El equipo de "Correcaminos" ha estado trabajando arduamente para lograr este objetivo.
 
 Equipo: Correcaminos
