@@ -1,3 +1,40 @@
+/*                                                                                                                 
+                                                 .@%(((((#&@@((&                                                        
+                                                /@&((((((((((((((@                                                      
+                                            %#((((((((((((((((((((&(((,                                                 
+                                           %((((#%@@@%##(((((((((((@((#                                                 
+                                                     ,(@&#((((((((((((%                                                 
+                                                         /%(((((((((((                                                  
+                                                            %(((((((#                                                   
+                #,,,,#@(                                     @((((                                                      
+                 ,(%&@&/,,,,&(  %#.                      ##(/&(#.                                                       
+           ,#,,,,,,,,,,,,,,,,,,,@@,,@                  * #&  (##                                                        
+         º/,,,,,,,,,,,,,,,,,,,,,,,,,,,&          &,@(@ .    #((                                                         
+        /,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@         *@,,.. @#((((&                                                         
+        #,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@          ,,,,,,@./*,./                                                        
+       @,,,,,,,,,,,,,/,,,,,,,,,,,,,,,,,,#          ./@(,,,,,,,,*                                                        
+       #,,,,,&,,#/      %@,,,,,,,,,,,,,,*         *(/%,%,,,&                                                            
+       ,,,,,/,@          %,,,,,,,,,,,,,,#                 %,,@                                                          
+      #,,,,(/              ./,,,,,,,,,,,@                   %,,#                                                        
+      &,,,(                  /,,,,,,,,,,@                      /,#                                                      
+      #,,@                     /,,,,,,,,@                        #*(                                                    
+       (@                    @,%,,,,,,,,@                          //                                                   
+                             @,,@,,,,,,,@                           @,&                                                 
+                              (,,@,,,,,,/                            @,,.                                               
+                               &,,(,,,,,,*                           /,,,%                                              
+                                @,,,,,,,,#                            ,,,/                                              
+                                  @,,,,,,,/                    *@/,,,,,,,,,                   ,&*****,                  
+                                  %,&,,,,,,,@             .@(((@,,,,,,,,,,/                @****(******@                
+                                    ##,,,,,,,,,###((&#(((&(((((@,,,,,,,,,*@           ,%**%/@#**(    &**#*%             
+                                          *&@%/(,,,,%((@(((((((@,,,,,,,,@@       /@**@    &****&       *******(/        
+                                         *%#(,    &%*@//&(((((@,,,,,,/&/%  (#***#,         &****%       /****@**º/      
+     .,..@(#@   @&*********,                  ,(***@,,,,,,,,%(    .@&,,@***º/,               (***&      @****(****(     
+      %*****%***%.     *#**              ,%/***(%#/.                    %#                      ./(     @****@****(     
+        &********(&#/*(#*&***(((******@%                                                                &***@&****      
+                     .*%#*****##.                                                                       ((%  .&&.       
+ 
+*/
+
 #include<Servo.h>
 
 Servo myservo;
@@ -15,7 +52,24 @@ int echo3 = 12;
 
 const float sonido = 34300.0; // Velocidad del sonido en cm/s
 
- 
+/*
+⣿⣿⣿⣿⣿⣿⣿⣿⠟⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠉⠻⣿⣿⣿⣿⣿⣿⡇
+⣿⣿⣿⣿⣿⣿⣿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢺⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠆⠜⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⠿⠿⠛⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠻⣿⣿
+⣿⣿⡏⠁⠀⠀⠀⠀⠀⣀⣠⣤⣤⣶⣶⣶⣶⣶⣦⣤⡄⠀⠀⠀⠀⢀⣴⣿
+⣿⣿⣷⣄⠀⠀⠀⢠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢿⡧⠇⢀⣤⣶⣿⣿
+⣿⣿⣿⣿⣿⣿⣾⣮⣭⣿⡻⣽⣒⠀⣤⣜⣭⠐⢐⣒⠢⢰⢸⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣏⣿⣿⣿⣿⣿⣿⡟⣾⣿⠂⢈⢿⣷⣞⣸⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣽⣿⣿⣷⣶⣾⡿⠿⣿⠗⠈⢻⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠻⠋⠉⠑⠀⠀⢘⢻⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⡿⠟⢹⣿⣿⡇⢀⣶⣶⠴⠶⠀⠀⢽⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⡿⠀⠀⢸⣿⣿⠀⠀⠣⠀⠀⠀⠀⠀⡟⢿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⡿⠟⠋⠀⠀⠀⠀⠹⣿⣧⣀⠀⠀⠀⠀⡀⣴⠁⢘⡙⢿⣿⣿⣿⣿
+⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⢿⠗⠂⠄⠀⣴⡟⠀⠀⡃⠀⠉⠉⠟⡿⡇
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢷⠾⠛⠂⢹⠀⠀⠀⢡⠀⠀⠀⠀⠀⠙⡇
+ */
+
 void setup() {
 
   Serial.begin(9600);
@@ -70,8 +124,9 @@ float cd1(){
   // Obtenemos la distancia en cm, hay que convertir el tiempo en segudos ya que está en microsegundos por eso se multiplica por 0.000001
   float distancia = tiempo * 0.000001 * sonido / 2.0;
   Serial.print("  Izquierda:  ");
+  if(distancia>300){distancia = 299;}
   Serial.print(distancia);
-  delay(30);
+  delay(100);
  
   return distancia;
 }
@@ -84,8 +139,9 @@ float cd2(){
  
   float distancia = tiempo * 0.000001 * sonido / 2.0;
   Serial.print("  Centro:  ");
+  if(distancia>300){distancia = 299;}
   Serial.print(distancia);
-  delay(30);
+  delay(100);
  
   return distancia;
 }
@@ -98,9 +154,9 @@ float cd3(){
  
   float distancia = tiempo * 0.000001 * sonido / 2.0;
   Serial.print("  Derecha:  ");
+  if(distancia>300){distancia = 299;}
   Serial.print(distancia);
- // Serial.println();
-  delay(30);
+  delay(100);
  
   return distancia;
 }
@@ -109,33 +165,40 @@ float cd3(){
 
 
 void loop() {
-/*
- digitalWrite(motor1Pin1, LOW);
- digitalWrite(motor1Pin2, HIGH); 
- myservo.write(50);
- delay(2000);
-
-myservo.write(150); 
-digitalWrite(motor1Pin1, LOW);
-digitalWrite(motor1Pin2, LOW); 
-
- delay(1500);
-*/
-
-  iniciarTrigger();
-  int dis1 = cd1();
   
   iniciarTrigger();
-  int dis2 = cd2();
+  float dis1 = cd1();
   
   iniciarTrigger();
-  int dis3 = cd3();
+  float dis2 = cd2();
+  
+  iniciarTrigger();
+  float dis3 = cd3();
 
-  int mig = dis1 - dis3;
+  float mig = dis1 - dis3;
+
   Serial.print("  Mig:  ");
-  Serial.println(mig);
+  Serial.print(mig);
 
-
+  if(mig>60){mig=55;}
+  if(mig<-60){mig=155;}
   myservo.write(100 - mig);
+
+  digitalWrite(motor1Pin1, LOW);
+  digitalWrite(motor1Pin2, HIGH); 
+
+  int A=0;
+  int B=100;
+  int C=10;
+  int D=120;
+
+  int motorspeed = ((dis2 - A)*(D - C))/(B - A) + C;
+
+  if(motorspeed>254){motorspeed=255;}
+
+  Serial.print("  MSpeed:  ");
+  Serial.println(motorspeed);
+
+  analogWrite(enable1Pin, motorspeed);
 }
  
